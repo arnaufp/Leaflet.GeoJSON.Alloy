@@ -1,5 +1,5 @@
 # Leaflet.GeoJSON.Alloy
-A [Leaflet](https://leafletjs.com/) plugin to fetch and visualise layers from Alloy, [Yotta](https://weareyotta.com/)'s Asset Management System, in GeoJson format. It is essentially an extesion of L.GeoJSON.
+A [Leaflet](https://leafletjs.com/) plugin to fetch and visualise layers from Alloy, [Yotta](https://weareyotta.com/)'s Asset Management System, in GeoJson format. It is essentially an extension of L.GeoJSON.
 
 ## Demo
 [Check the demo!](https://arnaufp.github.io/Leaflet.GeoJSON.Alloy/demo/)
