@@ -18,8 +18,8 @@ $(function(){
         onEachFeature: function (feature, layer) {
             layer.bindPopup('<p>Item Id: '+feature.id+'<p>')
         },
-        apiKey:'2eb73a23-3210-4165-bd38-2eec252193af',
-		layerCode: 'layers_hidrantesEstado_5ee24e989f0570005bfd66f8',
+        apiKey:'d9d654bb-7275-4914-8afe-a9c6680f0fc6',
+		layerCode: 'layers_hidrants_606dc3fe2a27ba000abe22b0',
 		visualisation: 'cluster',
     }).addTo(map)
 	
@@ -34,8 +34,8 @@ $(function(){
             layer.bindPopup('<p>Item Id: '+feature.id+'<p>')
         },
 		style: roadNetworkStyle,
-        apiKey:'2eb73a23-3210-4165-bd38-2eec252193af',
-		layerCode: 'layers_calzadas_5ee78e87899b410058f3012b',
+        apiKey:'d9d654bb-7275-4914-8afe-a9c6680f0fc6',
+		layerCode: 'layers_eixosValncia_606dc3ce14780b000b8449c2',
 		visualisation: 'network',
     }).addTo(map)
 	
